@@ -11,4 +11,4 @@ Starting from a code where only a go to button is needed to control presentation
 # Basic-Layout-and-Controls
 This version provide a frame and basic control on the presentation
 
-(HTML5)[http://www.w3.org/TR/html5/single-page.html]
+[HTML5](http://www.w3.org/TR/html5/single-page.html)
